@@ -33,9 +33,9 @@
                 
                 <h3>This is why you should choose me</h3>
                 <p style="color:#424949;">I may not be the best, however 3 things makes me different viz:</p>
-                <p style="color:#424949;"><b >PASSION</b> - This is something that keeps me going against all odds. </p>
-                 <p style="color:#424949;"><b >ABILITY TO LEARN NEW STUFF AND AT A FAST PACE</b> - Almost every year, new technology comes into light and it is always required that one most keep updating oneself on the use of these new techs. I can learn new things at a fast pace once i am commited to it .  </p>
-                 <p style="color:#424949;"><b >TEAM WORK</b> - Been able to work independenty and as a Team can bring about better and faster results, these i am capable</p>
+                <p style="color:#424949;"><b >Passion</b> - This is something that keeps me going against all odds. </p>
+                 <p style="color:#424949;"><b >Ability To Learn New Stuff And At A Fast Pace</b> - Almost every year, new technology comes into light and it is always required that one most keep updating oneself on the use of these new techs. I can learn new things at a fast pace once i am commited to it .  </p>
+                 <p style="color:#424949;"><b >Team Work</b> - Been able to work independenty and as a Team can bring about better and faster results, these i am capable</p>
 
                  <p style="color:#424949;">When i am given the right skills, opportunity and a platform, i will be able to achieve better and faster results.</p>
 
