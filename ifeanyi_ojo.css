@@ -1,0 +1,43 @@
+
+.main:after {
+content:"";
+        display: table;
+        clear: both;
+}
+.left{
+	float: left;
+        width: 50%;
+        font-size: 20px;
+}
+
+.right{
+	float: right;
+        width: 50%;
+        background-color: #FBFCFC;
+}
+
+
+.foot{
+	text-align:center;
+}
+
+
+
+img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 210px;
+    }
+
+     @media screen and (max-width: 480px) {
+        .left, .right {
+            float: none;
+            width: auto;
+        }
+    }
+    @media screen and (max-width: 720px) {
+        .left, .right {
+            float: none;
+            width: auto;
+        }
+    }
