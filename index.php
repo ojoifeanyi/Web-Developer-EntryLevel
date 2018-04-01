@@ -54,7 +54,7 @@
 					<img src="ifeanyi.jpg" alt="">
 				</div>
 
-						<div align="left" style="padding-top: 10px;padding-left: 140px;" width:50%;">
+						<div align="left" style="padding-top: 10px;padding-left: 100px;" width:50%;">
 						<p style="color:#424949;text-align: left;font-weight: bold;">PROFILE</p>
 							<p style="color:#424949;text-align: left;"><strong>Name:</strong> Ifeanyichukwu Ike Ojo</p>
 							<p style="color:#424949;"><strong>Location:</strong> Port Harcourt, Nigeria.</p>
