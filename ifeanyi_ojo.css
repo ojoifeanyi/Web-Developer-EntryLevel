@@ -7,26 +7,33 @@ content:"";
 .left{
 	float: left;
         width: 50%;
-        font-size: 20px;
+        font-size: 17px;
+        background-color: #FBFCFC;
 }
 
 .right{
 	float: right;
         width: 50%;
-        background-color: #FBFCFC;
+        
 }
 
 
 .foot{
 	text-align:center;
-}
+    background-color:#F0F3F4;
 
+}
+iframe{
+    max-width: 100%;
+    
+}
 
 
 img {
         max-width: 100%;
         height: auto;
         border-radius: 210px;
+
     }
 
      @media screen and (max-width: 480px) {

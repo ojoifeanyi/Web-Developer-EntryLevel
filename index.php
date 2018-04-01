@@ -28,8 +28,10 @@
 		<section class="main">
 			<div class="left" align="justify">
 				<blockquote >
-                <h1>Hi, I'm  Ifeanyi Ojo <span class="for">and I am a </span> Favcoder</h1>
+                <h1 style="background-color:#FBFCFC; font-size: 40px;text-align: center;">Hi, I'm  Ifeanyi Ojo <span class="for">and I am a </span> Favcoder</h1>
 				<p style="color:#424949;">My mission for Favcode is to:  Develop and deploy enterprise software products, hence using Information system to solve todays problems.</p>
+
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/Nuv_ncYajWg?rel=0" frameborder="0"  encrypted-media" allowfullscreen></iframe>
                 
                 <h3>This is why you should choose me</h3>
                 <p style="color:#424949;">I may not be the best, however 3 things makes me different viz:</p>
@@ -39,13 +41,29 @@
 
                  <p style="color:#424949;">When i am given the right skills, opportunity and a platform, i will be able to achieve better and faster results.</p>
 
+                 <hr>
+
                 <p class="meta">Here is my <a href="https://www.linkedin.com/in/ifeanyiojo" style="text-decoration: none" target="_blank">LinkedIn Page</a>.</p>
 
 				</blockquote>
 			</div>
 
 			<div class="right">
-				<blockquote><img src="ifeanyi.jpg" alt=""></blockquote>
+				<blockquote>
+					<div style="padding-top: 80px;padding-left: 80px;" width:50%;">
+					<img src="ifeanyi.jpg" alt="">
+				</div>
+
+						<div align="left" style="padding-top: 10px;padding-left: 140px;" width:50%;">
+						<p style="color:#424949;text-align: left;font-weight: bold;">PROFILE</p>
+							<p style="color:#424949;text-align: left;"><strong>Name:</strong> Ifeanyichukwu Ike Ojo</p>
+							<p style="color:#424949;"><strong>Location:</strong> Port Harcourt, Nigeria.</p>
+							<p style="color:#424949;"><strong>Passion:</strong> Programming, Information System, Tech Enthusiast</p>
+							<p style="color:#424949;"><strong>Skills:</strong> Chat bot Developer, Back-end Developer</p>
+							<p style="color:#424949;"><strong>Status:</strong> Student at <a href="https://favcode54.org/" style="text-decoration:none;">#FavCode54</a></p>
+						</div>
+
+				</blockquote>
 			</div>
 		</section>
 
