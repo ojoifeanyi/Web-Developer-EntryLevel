@@ -29,17 +29,17 @@
 			</p>
 		</div>
 
-		<div class="mission" style="color:#424949; background-color:#ECF0F1; font-size:23px;text-align:center;height:auto;padding: 80px;">
+		<div class="mission" style="color:#424949; background-color:#ECF0F1; font-size:23px;text-align:center;height:auto;padding: 80px;font-family:Century;">
 			<blockquote>
-				<h1>MISSION</h1>
+				<p><b>MISSION</b></p><br>
 				<p>My mission for Favcode is to:  Develop and deploy enterprise software products, hence using Information system to solve todays problems.</p>
 
 			</blockquote>
 				
 		</div>
-		<div class="me" style="color:#979A9A; background-color:#212627  ; font-size:19px;text-align:justify;height:auto;padding: 80px;">
+		<div class="me" style="color:#979A9A; background-color:#212627  ; font-size:16px;text-align:justify;height:auto;padding: 80px;font-family:Century;">
 			<blockquote>
-				 <h1 style="text-align: center;">This is why you should choose me</h1><br>
+				 <h1 style="text-align:left;">This is why you should choose me</h1><br>
                 <p >I may not be the best, however 3 things makes me different viz:</p><br>
                 <p ><b >Passion</b> - This is something that keeps me going against all odds. </p><br>
                  <p ><b >Ability To Learn New Stuff And At A Fast Pace</b> - Almost every year, new technology comes into light and it is always required that one most keep updating oneself on the use of these new techs. I can learn new things at a fast pace once i am commited to it .  </p><br>
@@ -51,7 +51,7 @@
 			</blockquote>
 				
 		</div>
-		<div class="imgg" style="color:#424949;font-size:23px;text-align:center;height:auto;padding: 50px;">
+		<div class="imgg" style="color:#424949;font-size:23px;text-align:center;height:auto;padding: 50px;font-family:Century;">
 			<blockquote>
 				<img src="ifeanyi.jpg" alt="">
 
