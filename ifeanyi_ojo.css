@@ -9,6 +9,7 @@
      width: 100%;
      background-size: cover;
      opacity: 0.8;
+     color:white;
 
      }
 .myheader:after{
@@ -26,7 +27,7 @@
     float:left;
     padding-top: 200px;
     padding-left: 50px;
-    font-size: 34px;
+    font-size: 40px;
     font-weight: bold;
     width:30%
 }
