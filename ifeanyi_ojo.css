@@ -58,6 +58,10 @@ img {
         border-radius: 210px;
 
     }
+    .imgg{
+         background-image: url('cwf.png');
+         background-size: cover;
+    }
 
      @media screen and (max-width: 480px) {
         .left, .right {
