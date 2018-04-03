@@ -40,6 +40,10 @@
 	text-align:center;
     background-color:#F0F3F4;
     clear:both;
+    height:auto;
+    padding:80px;
+    background-image: url('logofoot.jpg');
+    color:#ECF0F1;
 
 }
 iframe{

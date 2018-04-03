@@ -12,18 +12,19 @@
 	<!-- Open Graph data -->
 	<meta property="og:title" content="Submission for Felix - Favcode ">
 	<meta property="og:type" content="article">
-	<meta property="og:image" content="Felix%20-%20Favcoder_files/art.png">
+	<meta property="og:image" content="ifeanyi.jpg">
 	<meta property="og:description" content="African development through partnership">
 
-	<link href="./Felix - FavCode Test_files/css.css" rel="stylesheet">
+	<link rel="shortcut icon"
+ href="fav.jpg">
+
 	<link rel="stylesheet" href="ifeanyi_ojo.css">
-	<link rel="stylesheet" href="./Felix - FavCode Test_files/style.css">
 </head>
 <body cz-shortcut-listen="true">
 	<div class="container">
 
 		<div class="myheader">
-			<p class="left">Hi, I'm Ifeanyi, a #FavCoder.</p>
+			<p class="left">Hi, I'm Ifeanyi Ojo, a #FavCoder.</p>
 				<p class="right">
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/Nuv_ncYajWg?rel=0" frameborder="0"  encrypted-media" allowfullscreen></iframe>
 			</p>
