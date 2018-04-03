@@ -30,17 +30,17 @@
 			</p>
 		</div>
 
-		<div class="mission" style="color:#424949; background-color:#ECF0F1; font-size:23px;text-align:center;height:auto;padding: 80px;font-family:verdana;">
+		<div class="mission" style="color:#424949; background-color:#ECF0F1; font-size:23px;text-align:center;height:auto;padding: 80px;font-family:Consolas;">
 			<blockquote>
-				<p><b>MISSION</b></p><br>
+				<p style="color:black;">MISSION</p><br>
 				<p  style="font-family:Calibri;">My mission for Favcode is to:  Develop and deploy enterprise software products, hence using Information system to solve todays problems.</p>
 
 			</blockquote>
 				
 		</div>
-		<div class="me" style="color:#979A9A; background-color:#212627  ; font-size:16px;text-align:center;height:auto;padding: 80px;font-family:verdana;">
+		<div class="me" style="color:#979A9A; background-color:#212627  ; font-size:16px;text-align:center;height:auto;padding: 80px;font-family:Consolas;">
 			<blockquote>
-				 <h1>This is why you should choose me</h1><br>
+				 <p style="color:white;font-size: 28px;">This is why you should choose me</p><br>
                 <p  style="font-family:Calibri;" >I may not be the best, however 3 things makes me different viz:</p><br>
                 <p  style="font-family:Calibri;"><b >Passion</b> - This is something that keeps me going against all odds. </p><br>
                  <p  style="font-family:Calibri;"><b >Ability To Learn New Stuff And At A Fast Pace</b> - Almost every year, new technology comes into light and it is always required that one most keep updating oneself on the use of these new techs. I can learn new things at a fast pace once i am commited to it .  </p><br>
@@ -56,12 +56,12 @@
 			<blockquote>
 				<img src="ifeanyi.jpg" alt="">
 
-				<br><br><p style="color:#424949;text-align: center;font-weight: bold;font-family:verdana;">PROFILE</p><br>
+				<br><br><p style="color:#424949;text-align: center;font-weight: bold;font-family:Consolas;">PROFILE</p><br>
 							<p style="color:#424949;"><strong>Name:</strong> Ifeanyichukwu Ike Ojo</p>
 							<p style="color:#424949;"><strong>Location:</strong> Port Harcourt, Nigeria.</p>
 							<p style="color:#424949;"><strong>Passion:</strong> Programming, Information System, Tech Enthusiast</p>
 							<p style="color:#424949;"><strong>Skills:</strong> Chat bot Developer, Back-end Developer</p>
-							<p style="color:#424949;"><strong>Status:</strong> Student at <a href="https://favcode54.org/" style="text-decoration:none;">#FavCode54</a></p>
+							<p style="color:#424949;"><strong>Status:</strong> Student at <a href="https://favcode54.org/" target="_blank" style="text-decoration:none;">#FavCode54</a></p>
 							 <p class="meta">Here is my <a href="https://www.linkedin.com/in/ifeanyiojo" style="text-decoration: none" target="_blank">LinkedIn Page</a>.</p>
 			</blockquote>
 				
@@ -69,7 +69,7 @@
 
 		<footer class="foot">
 			<p>March 28, 2018. Submission for Felix - Favcode Partnership</p>
-			<p>Made by <a href="https://facebook.com/ifeanyi.ojo.12" style="text-decoration: none" target="_blank">Ifeanyi Ojo.</a></p>
+			<p>Made by <a href="https://facebook.com/ifeanyi.ojo.12" style="color:white;" target="_blank">Ifeanyi Ojo.</a></p>
 		</footer>
 	</div>
 
