@@ -23,6 +23,17 @@
 <body cz-shortcut-listen="true">
 	<div class="container">
 
+		<div class="topnav" id="myTopnav">
+  <a href="#"></a>
+  <a href="#">Projects</a>
+  <a href="#">Contact me</a>
+  <a href="#profile">Profile</a>
+  <a href="#">Home</a>
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+
+
+
 		<div class="myheader">
 			<p class="left">Hi, I'm Ifeanyi Ojo, a #FavCoder.</p>
 				<p class="right">
@@ -52,7 +63,7 @@
 			</blockquote>
 				
 		</div>
-		<div class="imgg" style="color:#424949;font-size:23px;text-align:center;height:auto;padding: 50px;font-family:calibri;">
+		<div id="profile" class="imgg" style="color:#424949;font-size:23px;text-align:center;height:auto;padding: 50px;font-family:calibri;">
 			<blockquote>
 				<img src="ifeanyi.jpg" alt="">
 
@@ -74,4 +85,19 @@
 	</div>
 
 
-</body></html>
+
+
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
+</body>
+
+</html>
